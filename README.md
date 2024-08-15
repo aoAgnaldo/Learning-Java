@@ -1,2 +1,2 @@
-# Learning-Java
+# javaPractice
 Some java learning code
